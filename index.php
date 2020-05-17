@@ -1,3 +1,3 @@
 <?php
-echo 'hello';
+print "I'm about to learn PHP!";
 ?>
